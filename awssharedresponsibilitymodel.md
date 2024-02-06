@@ -8,6 +8,8 @@ AWS is responsible for security of the cloud and CUSTOMER is responsible for sec
 Hyper-V ( Virtualisation)
 
 ***EC2*** - This is like a windows / iOS
+
+![alt text](image-3.png)
 ***Amazon S3*** - This is for storing object data like icloud.
 ***Block storage*** - This is like hard drive or USB Drive.
 
